@@ -1,4 +1,4 @@
-Idea generation -
+# Idea generation -
                * Includes Whiteboarding
                * MVP generation
                * Product market fit
@@ -6,19 +6,19 @@ Idea generation -
                * 
 
 ============================================================
-Tools / technology person -
+# Tools / technology person -
               * Full end to end technology stack development
               * Any changes to tech should get
 
 
 
-Testing / QA automation - 
+# Testing / QA automation - 
                * Modern tools for test automation
                * Automate test suites at a feature level
                * 
 ============================================================
 
-Delivery / shipping
+# Delivery / shipping
              *  Package the product for Production readiness
              *  Licensing / subscription model - Fremium 
              * Pricing strategy
@@ -27,5 +27,5 @@ Delivery / shipping
 
 
 ============================================================
-Feedback / Market check person
+# Feedback / Market check person
               * Get Customer feedback and implement 
