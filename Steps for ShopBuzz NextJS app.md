@@ -1,5 +1,16 @@
 # Here's a step-by-step guide to create a Next.js app with the features you mentioned:
 
+Key Features:
+
+**Shop Directory**: A comprehensive directory of local shops, including their location, contact information, and products/services offered.  
+**Rewards Program**: Customers earn points or badges for visiting and making purchases at participating shops. These points can be   
+redeemed for rewards, discounts, or exclusive offers.  
+**Exclusive Offers**: Shop owners can create exclusive offers, discounts, or promotions to attract customers to their stores.  
+**Push Notifications**: Customers receive push notifications about new offers, promotions, or events at their favorite shops.  
+**Social Sharing**: Customers can share their shopping experiences, photos, and reviews on social media, promoting the shop and encouraging others to visit.  
+**Shop Owner Dashboard**: A dedicated dashboard for shop owners to manage their shop's profile, offers, and customer interactions.  
+**Analytics**: Shop owners can track customer visits, purchases, and engagement metrics to optimize their marketing strategies.  
+
 # Step 1: Create a new Next.js project
 
 Run the following command in your terminal:
